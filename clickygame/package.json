@@ -2,7 +2,7 @@
   "name": "clickygame",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lokibeat.github.io/REACTClickyGame/.",
+  "homepage": "https://frozen-escarpment-63191.herokuapp.com/",
   "dependencies": {
     "gh-pages": "^1.0.0",
     "react-scripts": "1.1.5"
